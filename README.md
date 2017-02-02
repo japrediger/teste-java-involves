@@ -1,6 +1,6 @@
 # teste-java-involves
 
-O sistema consite em 3 artefatos:
+A arquitetura do software consiste em 3 artefatos:
 
 involves-teste-persistence : Artefato responsável pela camada de persistência. (módulo)
 involves-teste-services : Artefato que contém os serviços com as regras de negócio. (módulo)
